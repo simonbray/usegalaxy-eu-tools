@@ -412,3 +412,7 @@ tools:
   - name: smina
     owner: earlhaminst
     tool_panel_section_label: ChemicalToolBox
+
+  - name: a_fake_tool
+    owner: bgruening
+    tool_panel_section_label: ChemicalToolBox
